@@ -11,3 +11,10 @@
 ###### This is a Header test with a `H6`
 
 ![Image of repocat](https://octodex.github.com/images/repo.png) 
+
+``` java
+
+// An example in java
+System.out.println("Hello World! :)");
+
+```
