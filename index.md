@@ -18,3 +18,11 @@
 System.out.println("Hello World! :)");
 
 ```
+
+Here a Checklist example for this course:
+
+- [x] Step 01
+- [x] Step 02
+- [x] Step 03
+- [x] Step 04?
+- [ ] Step 05
